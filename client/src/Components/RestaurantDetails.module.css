@@ -1,0 +1,9 @@
+
+
+.flex{
+    display: flex;
+    gap: 2rem;
+    /* border: 1px solid black; */
+    margin-bottom: 20px;
+    margin-left: 40px;
+   }
